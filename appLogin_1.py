@@ -20,8 +20,8 @@ st.markdown("Welcome to Azure OpenAI ChatGPT app. Please log in to continue.")
 # Configure Azure OpenAI Service API
 openai.api_type = "azure"
 openai.api_version = "2023-05-15"
-openai.api_base = "https://youID.openai.azure.com/"
-openai.api_key = "your_key"
+openai.api_base = "https://aditiweb.openai.azure.com/"
+openai.api_key = "ae2d2171638b406d9eaf0edecb39b191"
 #openai.log = "debug"
 
 # Initialise session state variables
